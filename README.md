@@ -1,5 +1,7 @@
 # WebAuth101
 
+![Custom Image](/Assets/pic1.webp)
+
 ## Introduction
 
 Welcome to **WebAuth101**, a comprehensive guide and practical project for understanding and implementing web authentication using SimpleWebAuthn. This project aims to provide a solid foundation in web authentication methods, protocols, and best practices.
